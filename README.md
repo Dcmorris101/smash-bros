@@ -1,4 +1,10 @@
+## Summary
 Exploratory project with React. Proof of concept. A page that has the fighters listed from the Nintendo Switch game "Super Smash Brothers Ultimate". Fighters are able to be clicked on and the user is directed to a page of yotuube videos relating to the latest news, info, strategies, etc for the selected character.
+
+## Images
+![Fighter Finder homepage](https://github.com/Dcmorris101/smash-bros/blob/master/Smash-bros-homepage.png)
+
+![Fighter Finder Ness page](https://github.com/Dcmorris101/smash-bros/blob/master/Smash-bros-ness-page.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
